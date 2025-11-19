@@ -34,15 +34,6 @@ This project is the exclusive property of **Inker Robotics™** and is protected
 
 Aura is a modern, intelligent chatbot designed to assist visitors at RoboPark, India's first dedicated robotics and technology park in Thrissur, Kerala.
 
-## ✨ Features
-
-- 🧠 **Hybrid Intelligence**: Rule-based responses + AI-powered fallback (Groq API)
-- 🎨 **Modern UI**: Angular design with Inker Robotics branding (White, Orange, Black)
-- 🛡️ **Content Moderation**: Family-friendly filtering for safe interactions
-- 📚 **Rich Knowledge Base**: Comprehensive RoboPark and Inker Robotics information
-- 💬 **Full-Screen Chat**: Immersive conversation experience
-- 🎭 **Easter Eggs**: Hidden surprises for curious users
-
 ## 🚀 Quick Start
 
 ### Prerequisites
