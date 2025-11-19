@@ -101,24 +101,6 @@ npm run build
 
 Output files will be in the `dist/` folder, ready for deployment.
 
-## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Import project in [Vercel](https://vercel.com)
-3. Add environment variable: `VITE_GROQ_API_KEY`
-4. Deploy! 🎉
-
-### Deploy to Netlify
-
-1. Push your code to GitHub
-2. Import project in [Netlify](https://netlify.com)
-3. Build command: `npm run build`
-4. Publish directory: `dist`
-5. Add environment variable: `VITE_GROQ_API_KEY`
-6. Deploy! 🎉
-
 ## 📁 Project Structure
 
 ```
@@ -169,7 +151,6 @@ This project is proprietary software owned by Inker Robotic Solutions Private Li
 
 ---
 
-Made with 🧡 by Inker Robotics for RoboParking:
 1. **Profanity Filter:** Blocks offensive language
 2. **Topic Filter:** Rejects irrelevant questions
 3. **Family-Friendly Guard:** Maintains appropriate tone
