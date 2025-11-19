@@ -5,6 +5,10 @@
 
 An AI-powered visitor assistant for RoboPark by Inker Robotics™, featuring both rule-based responses and advanced AI capabilities for complex queries.
 
+![HomePage](src/assets/aura1.png)
+
+![Chat](src/assets/aura2.png)
+
 ---
 
 ## ⚖️ License & Usage
